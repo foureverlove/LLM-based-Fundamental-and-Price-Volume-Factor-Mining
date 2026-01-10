@@ -52,8 +52,8 @@ class Config:
                 "temperature": 0.1,
                 "max_tokens": 2000,
                 "timeout": 30,
-                "api_key": 'sk-sRF9BzJB5viwprPh0PqkeH6Epo01ssFl4msRJl8rpB72FbdC',  # 从环境变量读取
-                "api_base": 'https://api.openai-proxy.org/v1'  # 从环境变量读取
+                "api_key": '',  
+                "api_base": ''  
             },
             
             # RAG配置
@@ -80,4 +80,5 @@ class Config:
             value = value.get(k)
             if value is None:
                 return default
+
         return value
