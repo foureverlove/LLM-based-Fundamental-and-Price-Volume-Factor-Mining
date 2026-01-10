@@ -1,0 +1,342 @@
+2026-01-07 10:52:29,736 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 10:52:29,737 - __main__ - INFO - 加载数据...
+2026-01-07 10:52:29,738 - __main__ - INFO - 加载日频数据...
+2026-01-07 10:52:33,281 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 10:52:37,357 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 11:15:53,712 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 11:15:53,713 - __main__ - INFO - 加载数据...
+2026-01-07 11:15:53,713 - __main__ - INFO - 加载日频数据...
+2026-01-07 11:15:57,298 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 11:16:00,748 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 11:16:07,954 - __main__ - INFO - 系统初始化完成
+2026-01-07 11:16:07,954 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 11:16:25,397 - openai._base_client - INFO - Retrying request to /chat/completions in 0.434767 seconds
+2026-01-07 11:16:25,398 - openai._base_client - INFO - Retrying request to /chat/completions in 0.438087 seconds
+2026-01-07 11:16:25,398 - openai._base_client - INFO - Retrying request to /chat/completions in 0.382841 seconds
+2026-01-07 11:16:25,398 - openai._base_client - INFO - Retrying request to /chat/completions in 0.390310 seconds
+2026-01-07 11:16:25,398 - openai._base_client - INFO - Retrying request to /chat/completions in 0.474324 seconds
+2026-01-07 11:16:25,398 - openai._base_client - INFO - Retrying request to /chat/completions in 0.388757 seconds
+2026-01-07 11:16:25,399 - openai._base_client - INFO - Retrying request to /chat/completions in 0.410020 seconds
+2026-01-07 11:16:25,399 - openai._base_client - INFO - Retrying request to /chat/completions in 0.397843 seconds
+2026-01-07 11:16:35,797 - openai._base_client - INFO - Retrying request to /chat/completions in 0.823893 seconds
+2026-01-07 11:16:35,813 - openai._base_client - INFO - Retrying request to /chat/completions in 0.847071 seconds
+2026-01-07 11:16:35,813 - openai._base_client - INFO - Retrying request to /chat/completions in 0.896383 seconds
+2026-01-07 11:16:35,814 - openai._base_client - INFO - Retrying request to /chat/completions in 0.893255 seconds
+2026-01-07 11:16:35,828 - openai._base_client - INFO - Retrying request to /chat/completions in 0.807478 seconds
+2026-01-07 11:16:35,844 - openai._base_client - INFO - Retrying request to /chat/completions in 0.792841 seconds
+2026-01-07 11:16:35,859 - openai._base_client - INFO - Retrying request to /chat/completions in 0.857509 seconds
+2026-01-07 11:16:35,891 - openai._base_client - INFO - Retrying request to /chat/completions in 0.987366 seconds
+2026-01-07 11:16:56,682 - openai._base_client - INFO - Retrying request to /chat/completions in 0.383209 seconds
+2026-01-07 11:16:56,682 - openai._base_client - INFO - Retrying request to /chat/completions in 0.386917 seconds
+2026-01-07 11:16:56,683 - openai._base_client - INFO - Retrying request to /chat/completions in 0.462361 seconds
+2026-01-07 11:16:56,713 - openai._base_client - INFO - Retrying request to /chat/completions in 0.469395 seconds
+2026-01-07 11:16:56,761 - openai._base_client - INFO - Retrying request to /chat/completions in 0.420798 seconds
+2026-01-07 11:16:56,761 - openai._base_client - INFO - Retrying request to /chat/completions in 0.410049 seconds
+2026-01-07 11:16:56,775 - openai._base_client - INFO - Retrying request to /chat/completions in 0.419813 seconds
+2026-01-07 11:16:56,932 - openai._base_client - INFO - Retrying request to /chat/completions in 0.434471 seconds
+2026-01-07 11:17:07,073 - openai._base_client - INFO - Retrying request to /chat/completions in 0.873237 seconds
+2026-01-07 11:17:07,089 - openai._base_client - INFO - Retrying request to /chat/completions in 0.824108 seconds
+2026-01-07 11:17:07,192 - openai._base_client - INFO - Retrying request to /chat/completions in 0.859171 seconds
+2026-01-07 11:17:07,194 - openai._base_client - INFO - Retrying request to /chat/completions in 0.886140 seconds
+2026-01-07 11:17:07,199 - openai._base_client - INFO - Retrying request to /chat/completions in 0.777975 seconds
+2026-01-07 11:17:07,200 - openai._base_client - INFO - Retrying request to /chat/completions in 0.817984 seconds
+2026-01-07 11:17:07,217 - openai._base_client - INFO - Retrying request to /chat/completions in 0.960223 seconds
+2026-01-07 11:17:07,370 - openai._base_client - INFO - Retrying request to /chat/completions in 0.926090 seconds
+2026-01-07 11:17:27,976 - openai._base_client - INFO - Retrying request to /chat/completions in 0.456542 seconds
+2026-01-07 11:17:27,991 - openai._base_client - INFO - Retrying request to /chat/completions in 0.379095 seconds
+2026-01-07 11:17:28,022 - openai._base_client - INFO - Retrying request to /chat/completions in 0.478661 seconds
+2026-01-07 11:17:28,055 - openai._base_client - INFO - Retrying request to /chat/completions in 0.481191 seconds
+2026-01-07 11:17:28,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.427311 seconds
+2026-01-07 11:17:28,117 - openai._base_client - INFO - Retrying request to /chat/completions in 0.454196 seconds
+2026-01-07 11:17:28,210 - openai._base_client - INFO - Retrying request to /chat/completions in 0.376896 seconds
+2026-01-07 11:17:28,337 - openai._base_client - INFO - Retrying request to /chat/completions in 0.493513 seconds
+2026-01-07 11:53:23,235 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 11:53:23,236 - __main__ - INFO - 加载数据...
+2026-01-07 11:53:23,236 - __main__ - INFO - 加载日频数据...
+2026-01-07 11:53:26,850 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 11:53:31,207 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 11:53:39,585 - __main__ - INFO - 系统初始化完成
+2026-01-07 11:53:39,586 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 11:53:58,149 - openai._base_client - INFO - Retrying request to /chat/completions in 0.468830 seconds
+2026-01-07 11:53:58,149 - openai._base_client - INFO - Retrying request to /chat/completions in 0.451496 seconds
+2026-01-07 11:53:58,149 - openai._base_client - INFO - Retrying request to /chat/completions in 0.392622 seconds
+2026-01-07 11:53:58,150 - openai._base_client - INFO - Retrying request to /chat/completions in 0.443056 seconds
+2026-01-07 11:53:58,150 - openai._base_client - INFO - Retrying request to /chat/completions in 0.469577 seconds
+2026-01-07 11:53:58,151 - openai._base_client - INFO - Retrying request to /chat/completions in 0.435600 seconds
+2026-01-07 11:53:58,151 - openai._base_client - INFO - Retrying request to /chat/completions in 0.400150 seconds
+2026-01-07 11:53:58,151 - openai._base_client - INFO - Retrying request to /chat/completions in 0.460892 seconds
+2026-01-07 11:54:08,565 - openai._base_client - INFO - Retrying request to /chat/completions in 0.795092 seconds
+2026-01-07 11:54:08,565 - openai._base_client - INFO - Retrying request to /chat/completions in 0.974088 seconds
+2026-01-07 11:54:08,597 - openai._base_client - INFO - Retrying request to /chat/completions in 0.802047 seconds
+2026-01-07 11:54:08,613 - openai._base_client - INFO - Retrying request to /chat/completions in 0.983781 seconds
+2026-01-07 11:54:08,613 - openai._base_client - INFO - Retrying request to /chat/completions in 0.929784 seconds
+2026-01-07 11:54:08,629 - openai._base_client - INFO - Retrying request to /chat/completions in 0.987767 seconds
+2026-01-07 11:54:08,630 - openai._base_client - INFO - Retrying request to /chat/completions in 0.756045 seconds
+2026-01-07 11:54:08,630 - openai._base_client - INFO - Retrying request to /chat/completions in 0.997518 seconds
+2026-01-07 11:54:28,527 - __main__ - INFO - 停止因子挖掘系统...
+2026-01-07 11:54:29,328 - __main__ - INFO - 系统状态报告: {
+  "timestamp": "2026-01-07T11:54:29.328335",
+  "total_generated": 1,
+  "total_accepted": 0,
+  "accept_rate": 0.0,
+  "factor_pool_size": 0,
+  "idea_pool_size": 6
+}
+2026-01-07 11:54:29,329 - __main__ - INFO - 系统已停止
+2026-01-07 12:02:31,619 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 12:02:31,619 - __main__ - INFO - 加载数据...
+2026-01-07 12:02:31,620 - __main__ - INFO - 加载日频数据...
+2026-01-07 12:02:34,455 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 12:02:37,568 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 12:02:44,530 - __main__ - INFO - 系统初始化完成
+2026-01-07 12:02:44,531 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 12:03:01,407 - openai._base_client - INFO - Retrying request to /chat/completions in 0.407764 seconds
+2026-01-07 12:03:01,408 - openai._base_client - INFO - Retrying request to /chat/completions in 0.474098 seconds
+2026-01-07 12:03:01,408 - openai._base_client - INFO - Retrying request to /chat/completions in 0.462546 seconds
+2026-01-07 12:03:01,408 - openai._base_client - INFO - Retrying request to /chat/completions in 0.383371 seconds
+2026-01-07 12:03:01,408 - openai._base_client - INFO - Retrying request to /chat/completions in 0.420517 seconds
+2026-01-07 12:03:01,409 - openai._base_client - INFO - Retrying request to /chat/completions in 0.420620 seconds
+2026-01-07 12:03:01,409 - openai._base_client - INFO - Retrying request to /chat/completions in 0.486573 seconds
+2026-01-07 12:03:01,410 - openai._base_client - INFO - Retrying request to /chat/completions in 0.443973 seconds
+2026-01-07 12:03:11,836 - openai._base_client - INFO - Retrying request to /chat/completions in 0.864092 seconds
+2026-01-07 12:03:11,836 - openai._base_client - INFO - Retrying request to /chat/completions in 0.789830 seconds
+2026-01-07 12:03:11,851 - openai._base_client - INFO - Retrying request to /chat/completions in 0.943270 seconds
+2026-01-07 12:03:11,851 - openai._base_client - INFO - Retrying request to /chat/completions in 0.773409 seconds
+2026-01-07 12:03:11,866 - openai._base_client - INFO - Retrying request to /chat/completions in 0.935274 seconds
+2026-01-07 12:03:11,898 - openai._base_client - INFO - Retrying request to /chat/completions in 0.992037 seconds
+2026-01-07 12:03:11,898 - openai._base_client - INFO - Retrying request to /chat/completions in 0.784899 seconds
+2026-01-07 12:03:11,915 - openai._base_client - INFO - Retrying request to /chat/completions in 0.888872 seconds
+2026-01-07 12:03:41,982 - openai._base_client - INFO - Retrying request to /chat/completions in 0.463288 seconds
+2026-01-07 12:03:41,983 - openai._base_client - INFO - Retrying request to /chat/completions in 0.431596 seconds
+2026-01-07 12:03:41,983 - openai._base_client - INFO - Retrying request to /chat/completions in 0.480990 seconds
+2026-01-07 12:03:41,983 - openai._base_client - INFO - Retrying request to /chat/completions in 0.436223 seconds
+2026-01-07 12:03:41,997 - openai._base_client - INFO - Retrying request to /chat/completions in 0.466649 seconds
+2026-01-07 12:03:41,998 - openai._base_client - INFO - Retrying request to /chat/completions in 0.434867 seconds
+2026-01-07 12:03:41,998 - openai._base_client - INFO - Retrying request to /chat/completions in 0.489232 seconds
+2026-01-07 12:03:41,998 - openai._base_client - INFO - Retrying request to /chat/completions in 0.396888 seconds
+2026-01-07 12:03:52,422 - openai._base_client - INFO - Retrying request to /chat/completions in 0.841967 seconds
+2026-01-07 12:03:52,438 - openai._base_client - INFO - Retrying request to /chat/completions in 0.920328 seconds
+2026-01-07 12:03:52,439 - openai._base_client - INFO - Retrying request to /chat/completions in 0.945124 seconds
+2026-01-07 12:03:52,453 - openai._base_client - INFO - Retrying request to /chat/completions in 0.754165 seconds
+2026-01-07 12:03:52,469 - openai._base_client - INFO - Retrying request to /chat/completions in 0.862183 seconds
+2026-01-07 12:03:52,484 - openai._base_client - INFO - Retrying request to /chat/completions in 0.938986 seconds
+2026-01-07 12:03:52,485 - openai._base_client - INFO - Retrying request to /chat/completions in 0.984169 seconds
+2026-01-07 12:03:52,516 - openai._base_client - INFO - Retrying request to /chat/completions in 0.826345 seconds
+2026-01-07 12:04:22,631 - openai._base_client - INFO - Retrying request to /chat/completions in 0.376427 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.426566 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.414560 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.409466 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.488928 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.390861 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.474486 seconds
+2026-01-07 12:04:22,632 - openai._base_client - INFO - Retrying request to /chat/completions in 0.493120 seconds
+2026-01-07 12:04:33,052 - openai._base_client - INFO - Retrying request to /chat/completions in 0.909361 seconds
+2026-01-07 12:04:33,053 - openai._base_client - INFO - Retrying request to /chat/completions in 0.875338 seconds
+2026-01-07 12:04:33,068 - openai._base_client - INFO - Retrying request to /chat/completions in 0.861467 seconds
+2026-01-07 12:04:33,068 - openai._base_client - INFO - Retrying request to /chat/completions in 0.948606 seconds
+2026-01-07 12:04:33,084 - openai._base_client - INFO - Retrying request to /chat/completions in 0.788615 seconds
+2026-01-07 12:04:33,131 - openai._base_client - INFO - Retrying request to /chat/completions in 0.838091 seconds
+2026-01-07 12:04:33,146 - openai._base_client - INFO - Retrying request to /chat/completions in 0.947897 seconds
+2026-01-07 12:04:33,147 - openai._base_client - INFO - Retrying request to /chat/completions in 0.854040 seconds
+2026-01-07 12:05:04,742 - openai._base_client - INFO - Retrying request to /chat/completions in 0.404665 seconds
+2026-01-07 12:05:04,742 - openai._base_client - INFO - Retrying request to /chat/completions in 0.448424 seconds
+2026-01-07 12:05:04,743 - openai._base_client - INFO - Retrying request to /chat/completions in 0.428280 seconds
+2026-01-07 12:05:04,744 - openai._base_client - INFO - Retrying request to /chat/completions in 0.377523 seconds
+2026-01-07 12:05:04,743 - openai._base_client - INFO - Retrying request to /chat/completions in 0.484749 seconds
+2026-01-07 12:05:04,744 - openai._base_client - INFO - Retrying request to /chat/completions in 0.422356 seconds
+2026-01-07 12:05:04,743 - openai._base_client - INFO - Retrying request to /chat/completions in 0.420897 seconds
+2026-01-07 12:05:04,745 - openai._base_client - INFO - Retrying request to /chat/completions in 0.411115 seconds
+2026-01-07 12:05:15,143 - openai._base_client - INFO - Retrying request to /chat/completions in 0.965930 seconds
+2026-01-07 12:05:15,158 - openai._base_client - INFO - Retrying request to /chat/completions in 0.813295 seconds
+2026-01-07 12:05:15,174 - openai._base_client - INFO - Retrying request to /chat/completions in 0.754749 seconds
+2026-01-07 12:05:15,191 - openai._base_client - INFO - Retrying request to /chat/completions in 0.883417 seconds
+2026-01-07 12:05:15,192 - openai._base_client - INFO - Retrying request to /chat/completions in 0.839747 seconds
+2026-01-07 12:05:15,193 - openai._base_client - INFO - Retrying request to /chat/completions in 0.761887 seconds
+2026-01-07 12:05:15,206 - openai._base_client - INFO - Retrying request to /chat/completions in 0.984200 seconds
+2026-01-07 12:05:15,253 - openai._base_client - INFO - Retrying request to /chat/completions in 0.814454 seconds
+2026-01-07 12:05:46,808 - openai._base_client - INFO - Retrying request to /chat/completions in 0.380060 seconds
+2026-01-07 12:05:46,809 - openai._base_client - INFO - Retrying request to /chat/completions in 0.409599 seconds
+2026-01-07 12:05:46,811 - openai._base_client - INFO - Retrying request to /chat/completions in 0.391823 seconds
+2026-01-07 12:05:46,809 - openai._base_client - INFO - Retrying request to /chat/completions in 0.489938 seconds
+2026-01-07 12:05:46,810 - openai._base_client - INFO - Retrying request to /chat/completions in 0.394937 seconds
+2026-01-07 12:05:46,810 - openai._base_client - INFO - Retrying request to /chat/completions in 0.400928 seconds
+2026-01-07 12:05:46,809 - openai._base_client - INFO - Retrying request to /chat/completions in 0.392386 seconds
+2026-01-07 12:05:46,812 - openai._base_client - INFO - Retrying request to /chat/completions in 0.400926 seconds
+2026-01-07 12:05:57,321 - openai._base_client - INFO - Retrying request to /chat/completions in 0.765454 seconds
+2026-01-07 12:05:57,321 - openai._base_client - INFO - Retrying request to /chat/completions in 0.997198 seconds
+2026-01-07 12:05:57,321 - openai._base_client - INFO - Retrying request to /chat/completions in 0.902344 seconds
+2026-01-07 12:05:57,322 - openai._base_client - INFO - Retrying request to /chat/completions in 0.864936 seconds
+2026-01-07 12:05:57,322 - openai._base_client - INFO - Retrying request to /chat/completions in 0.974766 seconds
+2026-01-07 12:05:57,322 - openai._base_client - INFO - Retrying request to /chat/completions in 0.863362 seconds
+2026-01-07 12:05:57,323 - openai._base_client - INFO - Retrying request to /chat/completions in 0.885995 seconds
+2026-01-07 12:05:57,323 - openai._base_client - INFO - Retrying request to /chat/completions in 0.868356 seconds
+2026-01-07 12:06:30,504 - openai._base_client - INFO - Retrying request to /chat/completions in 0.404091 seconds
+2026-01-07 12:06:30,505 - openai._base_client - INFO - Retrying request to /chat/completions in 0.405154 seconds
+2026-01-07 12:06:30,505 - openai._base_client - INFO - Retrying request to /chat/completions in 0.482123 seconds
+2026-01-07 12:06:30,505 - openai._base_client - INFO - Retrying request to /chat/completions in 0.412407 seconds
+2026-01-07 12:06:30,506 - openai._base_client - INFO - Retrying request to /chat/completions in 0.422849 seconds
+2026-01-07 12:06:30,506 - openai._base_client - INFO - Retrying request to /chat/completions in 0.437781 seconds
+2026-01-07 12:06:30,506 - openai._base_client - INFO - Retrying request to /chat/completions in 0.417487 seconds
+2026-01-07 12:06:30,507 - openai._base_client - INFO - Retrying request to /chat/completions in 0.484090 seconds
+2026-01-07 12:06:40,935 - openai._base_client - INFO - Retrying request to /chat/completions in 0.792046 seconds
+2026-01-07 12:06:40,935 - openai._base_client - INFO - Retrying request to /chat/completions in 0.811720 seconds
+2026-01-07 12:06:40,936 - openai._base_client - INFO - Retrying request to /chat/completions in 0.947974 seconds
+2026-01-07 12:06:40,950 - openai._base_client - INFO - Retrying request to /chat/completions in 0.883502 seconds
+2026-01-07 12:06:40,951 - openai._base_client - INFO - Retrying request to /chat/completions in 0.998367 seconds
+2026-01-07 12:06:40,967 - openai._base_client - INFO - Retrying request to /chat/completions in 0.923034 seconds
+2026-01-07 12:06:41,013 - openai._base_client - INFO - Retrying request to /chat/completions in 0.886074 seconds
+2026-01-07 12:06:41,015 - openai._base_client - INFO - Retrying request to /chat/completions in 0.851763 seconds
+2026-01-07 12:07:14,084 - openai._base_client - INFO - Retrying request to /chat/completions in 0.391021 seconds
+2026-01-07 12:07:14,084 - openai._base_client - INFO - Retrying request to /chat/completions in 0.435325 seconds
+2026-01-07 12:07:14,084 - openai._base_client - INFO - Retrying request to /chat/completions in 0.375551 seconds
+2026-01-07 12:07:14,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.423247 seconds
+2026-01-07 12:07:14,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.471777 seconds
+2026-01-07 12:07:14,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.431985 seconds
+2026-01-07 12:07:14,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.388405 seconds
+2026-01-07 12:07:14,085 - openai._base_client - INFO - Retrying request to /chat/completions in 0.414991 seconds
+2026-01-07 12:07:24,512 - openai._base_client - INFO - Retrying request to /chat/completions in 0.915939 seconds
+2026-01-07 12:07:24,513 - openai._base_client - INFO - Retrying request to /chat/completions in 0.897570 seconds
+2026-01-07 12:07:24,513 - openai._base_client - INFO - Retrying request to /chat/completions in 0.837394 seconds
+2026-01-07 12:07:24,513 - openai._base_client - INFO - Retrying request to /chat/completions in 0.919579 seconds
+2026-01-07 12:07:24,527 - openai._base_client - INFO - Retrying request to /chat/completions in 0.825063 seconds
+2026-01-07 12:07:24,529 - openai._base_client - INFO - Retrying request to /chat/completions in 0.817237 seconds
+2026-01-07 12:07:24,529 - openai._base_client - INFO - Retrying request to /chat/completions in 0.963298 seconds
+2026-01-07 12:07:24,575 - openai._base_client - INFO - Retrying request to /chat/completions in 0.833970 seconds
+2026-01-07 13:22:01,939 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 13:22:01,940 - __main__ - INFO - 加载数据...
+2026-01-07 13:22:01,940 - __main__ - INFO - 加载日频数据...
+2026-01-07 13:22:05,301 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 13:22:09,306 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 13:22:23,148 - __main__ - INFO - 系统初始化完成
+2026-01-07 13:22:23,148 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 13:22:38,801 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:38,865 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:38,973 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:39,154 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:40,112 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:40,333 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:40,518 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:40,694 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:41,138 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:41,764 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:42,041 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:42,267 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:42,353 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:42,465 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:42,789 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:43,519 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:43,839 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:44,327 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:45,578 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:45,608 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:48,674 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:51,692 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:53,519 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:55,379 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:58,534 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:58,565 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:58,603 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:58,756 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:58,934 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:59,019 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:22:59,170 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,071 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,072 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,176 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,380 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,396 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,501 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:00,780 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:01,656 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:01,660 - __main__ - INFO - 停止因子挖掘系统...
+2026-01-07 13:23:01,864 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:01,869 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:01,928 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:02,383 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:03,498 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:03,587 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:04,157 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:23:05,109 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:10,561 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 13:47:10,561 - __main__ - INFO - 加载数据...
+2026-01-07 13:47:10,561 - __main__ - INFO - 加载日频数据...
+2026-01-07 13:47:13,613 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 13:47:18,163 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 13:47:32,639 - __main__ - INFO - 系统初始化完成
+2026-01-07 13:47:32,640 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 13:47:48,909 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:48,931 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:49,117 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:49,122 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:49,225 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:49,338 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:49,932 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:47:52,837 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:08,383 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 13:56:08,384 - __main__ - INFO - 加载数据...
+2026-01-07 13:56:08,384 - __main__ - INFO - 加载日频数据...
+2026-01-07 13:56:11,268 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 13:56:15,155 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 13:56:28,417 - __main__ - INFO - 系统初始化完成
+2026-01-07 13:56:28,417 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 13:56:42,794 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:42,952 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:43,344 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:43,345 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:43,347 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:43,417 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:43,533 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 13:56:44,163 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:07:54,487 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 14:07:54,489 - __main__ - INFO - 加载数据...
+2026-01-07 14:07:54,489 - __main__ - INFO - 加载日频数据...
+2026-01-07 14:07:57,217 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 14:08:01,063 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 14:08:14,001 - __main__ - INFO - 系统初始化完成
+2026-01-07 14:08:14,002 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 14:08:28,637 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:28,656 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:28,814 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:28,834 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:29,151 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:29,182 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:29,213 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:08:30,826 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:13:50,211 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 14:13:50,212 - __main__ - INFO - 加载数据...
+2026-01-07 14:13:50,212 - __main__ - INFO - 加载日频数据...
+2026-01-07 14:13:53,670 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 14:13:56,611 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 14:14:10,830 - __main__ - INFO - 系统初始化完成
+2026-01-07 14:14:10,830 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 14:14:26,678 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:26,821 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:26,852 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:27,093 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:27,372 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:27,437 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:27,678 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:14:28,627 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:28:57,598 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 14:28:57,598 - __main__ - INFO - 加载数据...
+2026-01-07 14:28:57,598 - __main__ - INFO - 加载日频数据...
+2026-01-07 14:29:00,100 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 14:29:02,716 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 14:29:13,139 - __main__ - INFO - 系统初始化完成
+2026-01-07 14:29:13,139 - __main__ - INFO - 开始批量挖掘，目标100个因子...
+2026-01-07 14:29:25,062 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,104 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,146 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,206 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,393 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,427 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:25,908 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:29:34,281 - openai._base_client - INFO - Retrying request to /chat/completions in 0.413439 seconds
+2026-01-07 14:29:37,224 - httpx - INFO - HTTP Request: POST https://api.openai-proxy.org/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-07 14:34:55,217 - __main__ - INFO - 初始化Alpha因子挖掘系统...
+2026-01-07 14:34:55,218 - __main__ - INFO - 加载数据...
+2026-01-07 14:34:55,218 - __main__ - INFO - 加载日频数据...
+2026-01-07 14:34:57,609 - __main__ - INFO - 加载Barra风险因子...
+2026-01-07 14:34:59,839 - __main__ - INFO - 数据加载完成: 训练集726天, 测试集243天
+2026-01-07 14:35:10,313 - __main__ - INFO - 系统初始化完成
+2026-01-07 14:35:10,313 - __main__ - INFO - 开始批量挖掘，目标100个因子...
