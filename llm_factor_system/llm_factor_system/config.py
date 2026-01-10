@@ -24,7 +24,7 @@ class Config:
             "data_paths": {
                 "minute": "D:/量化/data/minute_data/",
                 "daily": "D:/量化/data/daily_data/",
-                "barra": "D:/量化/data/daily_data/"  # Barra因子和日频数据在同一目录
+                "barra": "D:/量化/data/daily_data/"  
             },
             
             # 时间范围配置
@@ -82,3 +82,4 @@ class Config:
                 return default
 
         return value
+
