@@ -30,7 +30,7 @@ export CLOSEAI_BASE_URL=https://api.openai-proxy.org/v1
 
 ### 2. 数据准备
 
-确保数据文件已按照以下格式准备好：
+确保数据文件已按照以下格式准备好(或者自己改一下)：
 
 - **分钟频数据**: `D:/量化/data/minute_data/YYYY-MM-DD.parquet`
 - **日频数据**: `D:/量化/data/daily_data/{field}.parquet`
