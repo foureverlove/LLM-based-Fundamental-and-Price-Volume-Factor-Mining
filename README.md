@@ -1,4 +1,5 @@
 # LLM-based-Fundamental-and-Price-Volume-Factor-Mining
+Unfinished
 # LLM因子自动挖掘系统 - 使用说明
 
 ## 快速开始
@@ -26,7 +27,7 @@ export CLOSEAI_API_KEY=your-api-key
 export CLOSEAI_BASE_URL=https://api.openai-proxy.org/v1
 ```
 
-或者在 `config.py` 中直接配置（不推荐，安全性较低）。
+或者在 `config.py` 中直接配置。
 
 ### 2. 数据准备
 
