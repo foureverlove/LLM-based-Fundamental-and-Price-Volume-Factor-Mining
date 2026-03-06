@@ -1,6 +1,6 @@
 # AI-Driven Factor Research Framework
 *Public-safe summary*
-
+- contact qtx2711135576@gmail.com for more details
 ## Snapshot
 An iterative research framework that combines AI idea generation with deterministic validation and selection.
 
